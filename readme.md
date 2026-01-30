@@ -21,3 +21,4 @@ If a given string has either x, replace x by y. if the given string has X, repla
 ---
 ### Task-5:
 Capitalize Every first Letter of each word in a String
+<!-- thr name is s veryh mauhn hiujkhjkhu -->
